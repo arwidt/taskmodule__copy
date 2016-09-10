@@ -1,14 +1,32 @@
 {
-  "name": "taskmodule__copy",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Arwid Thornstrom <arwidt@gmail.com> (http://thingsarerandom.com/)",
-  "license": "ISC",
-  "dependencies": {
-    "node-fs-extra": "^0.8.1"
-  }
+    "name": "taskmodule__copy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arwidt/taskmodule__copy.git"
+    },
+    "keywords": [
+        "logger",
+        "taskmodules__copy",
+        "timeout",
+        "milliseconds",
+        "log",
+        "logs",
+        "time",
+        "tasks"
+    ],
+    "author": "Arwid Thornstrom <arwidt@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/arwidt/taskmodules__copy/issues"
+    },
+    "homepage": "https://github.com/arwidt/taskmodules__copy#readme",
+    "dependencies": {
+        "node-fs-extra": "^0.8.1"
+    }
 }
