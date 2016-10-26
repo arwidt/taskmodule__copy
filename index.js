@@ -12,6 +12,6 @@ module.exports = function(from, to, async) {
             fse.copySync(from, to);
             callback();
         } 
-    } 
-} 
+    }; 
+}; 
 
