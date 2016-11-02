@@ -1,7 +1,7 @@
 {
   "name": "taskmodule__copy",
   "version": "1.0.2",
-  "description": "",
+  "description": "GulpTaskModule to copy files, works good with async.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,11 @@
     "url": "git+https://github.com/arwidt/taskmodule__copy.git"
   },
   "keywords": [
-    "logger",
-    "taskmodules__copy",
-    "timeout",
-    "milliseconds",
-    "log",
-    "logs",
-    "time",
-    "tasks"
+    "buildscript",
+    "gulp",
+    "fs",
+    "gulp-tasks",
+    "gulp-copy"
   ],
   "author": "Arwid Thornstrom <arwidt@gmail.com>",
   "license": "ISC",
