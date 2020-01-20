@@ -1,6 +1,6 @@
 {
   "name": "taskmodule__copy",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "GulpTaskModule to copy files, works good with async.js",
   "main": "index.js",
   "scripts": {
